@@ -38,8 +38,8 @@ Je veux partager mes progrès et montrer mes compétences en développement.
 
 ## 📫 Contact
 Tu peux me retrouver sur :
-- 💼 [LinkedIn](https://linkedin.com) *(ajoute ton vrai lien)*
-- 📧 Email : *ton.email@example.com*
+- 💼 [LinkedIn]((https://www.linkedin.com/in/aya-elksiouer-94437b366?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- 📧 Email : elksioueraya@gmail.com
 
 ---
 
