@@ -49,14 +49,14 @@ Je veux partager mes progrès et montrer mes compétences en développement.
 
 ## 📊 Stats GitHub
 
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaelksiouer&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaelksiouer&layout=compact&theme=radical)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaah-ek-web&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyaah-ek-web&layout=compact&theme=radical)
 
 ---
 
 ## 🐍 Animation Contributions
 
-![Snake animation](https://github.com/ayaelksiouer/ayaelksiouer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eyaah-ek-web/eyaah-ek-web/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
