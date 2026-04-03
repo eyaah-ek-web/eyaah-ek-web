@@ -13,14 +13,28 @@ Passionate about creating interactive web experiences and exploring the intersec
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyaah-ek-web&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaah-ek-web&layout=compact&theme=radical" width="40%" />
+  <a href="https://github.com/eyaah-ek-web">
+    <img src="https://github-readme-stats.vercel.app/api?username=eyaah-ek-web&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/eyaah-ek-web">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaah-ek-web&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="45%" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyaah-ek-web&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyaah-ek-web&theme=radical&border_radius=10" alt="GitHub Streak" width="94%" />
 </p>
-[![github contribution grid snake](https://github-profile-trophy.vercel.app/?username=eyaah-ek-web&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=eyaah-ek-web&theme=radical&column=4&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
