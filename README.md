@@ -7,7 +7,7 @@ Passionate about creating interactive web experiences and exploring the intersec
 
 ### 🛠 My Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql,github,vscode,pycharm" />
 </p>
 
 ---
