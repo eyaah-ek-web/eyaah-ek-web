@@ -14,8 +14,8 @@ Passionate about creating interactive web experiences and exploring the intersec
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eyaah-ek-web&show_icons=true&theme=dark&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaah-ek-web&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eyaah-ek-web&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaah-ek-web&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 
 ---
