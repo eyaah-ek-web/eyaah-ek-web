@@ -1,6 +1,7 @@
 # Hi there, I'm Aya! 👋
 
 🚀 **Mobile Application Developer | Digital Development Student**
+
 Passionate about building intuitive native Android applications and cross-platform mobile experiences. Exploring modern mobile architecture and AI integration.
 
 ---
