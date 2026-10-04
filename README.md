@@ -1,13 +1,13 @@
 # Hi there, I'm Aya! 👋
 
-### 🚀 Digital Development Student | Future AI Expert
-Passionate about creating interactive web experiences and exploring the intersection of AI and fashion tech.
+🚀 **Mobile Application Developer | Digital Development Student**
+Passionate about building intuitive native Android applications and cross-platform mobile experiences. Exploring modern mobile architecture and AI integration.
 
 ---
 
 ### 🛠 My Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=html,kotlin,css,js,python,bootstrap,mysql,github,androidstudio,vscode,pycharm" />
 </p>
 
 ---
