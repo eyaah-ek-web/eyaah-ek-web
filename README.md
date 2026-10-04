@@ -29,13 +29,6 @@ Passionate about creating interactive web experiences and exploring the intersec
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eyaah-ek-web&theme=radical&column=4&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Let's Connect!
