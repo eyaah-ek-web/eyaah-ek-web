@@ -8,7 +8,7 @@ Passionate about building intuitive native Android applications and cross-platfo
 
 ### 🛠 My Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,kotlin,css,js,python,bootstrap,mysql,github,androidstudio,intellijidea,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=html,kotlin,css,js,python,bootstrap,mysql,github,androidstudio,intellijIDEA,vscode,pycharm" />
 </p>
 
 ---
